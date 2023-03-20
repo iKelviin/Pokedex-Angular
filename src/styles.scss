@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import './scss/variables.scss';
+@import './scss/reset.scss';
+@import './scss/rem-calc.scss';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html{
+    font-family: Roboto;
+    background: var(--primary-color);
+}
+
+main{
+    width: rem-calc(600);
+    margin: 0 auto;
+    box-sizing: border-box;
+}
