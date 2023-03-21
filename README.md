@@ -2,7 +2,8 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído durante meu curso na Udemy : https://www.udemy.com/share/104y443@TXVCPSouKr0NGZH7NC2pGHWL__sF-AUw-nmBBTgJumWYRmQ6Ln5ZEYtHpr_3J3Lpsg==/
+Projeto construído durante meu curso na Udemy: 
+https://www.udemy.com/share/104y443@TXVCPSouKr0NGZH7NC2pGHWL__sF-AUw-nmBBTgJumWYRmQ6Ln5ZEYtHpr_3J3Lpsg==/
 
 
 ## 🤖 Tecnologias
