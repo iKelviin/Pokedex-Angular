@@ -1,5 +1,9 @@
-
 <form>
-    <input type="text" placeholder="Buscar Pokemon...">
+    <input 
+        type="text" 
+        placeholder="Buscar Pokemon..."
+        #input
+        (keyup)="search(input.value)"
+    >
     <mat-icon>search</mat-icon>
 </form>

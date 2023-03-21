@@ -1,11 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 @import './scss/variables.scss';
 @import './scss/reset.scss';
 @import './scss/rem-calc.scss';
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import './scss/btn.scss';
+@import './scss/animation.scss';
 
 html{
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     background: var(--primary-color);
 }
 
