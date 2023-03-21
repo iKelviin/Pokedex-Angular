@@ -17,4 +17,5 @@ https://www.udemy.com/share/104y443@TXVCPSouKr0NGZH7NC2pGHWL__sF-AUw-nmBBTgJumWY
 ## 📲 Contato
 
 kelvinsantosdarocha@gmail.com
+Linkedin:
 https://www.linkedin.com/in/kelvin-santos-da-rocha-7364211b8/
